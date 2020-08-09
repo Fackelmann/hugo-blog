@@ -1,0 +1,58 @@
+baseURL = "http://danielgplaza.com/"
+languageCode = "en-us"
+title = "Daniel G. Plaza"
+theme = "whiteplain"
+
+copyright = "&copy; Copyright 2020 Daniel Gonzalez Plaza"
+
+[params.author]
+  name = "Daniel Gonzalez Plaza"
+  avatar = "/img/me.png"
+
+  github = "Fackelmann"
+  linkedin = "daniel-gonzalez-plaza"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Header Menu
+[[menu.main]]
+  name = "Categories"
+  identifier = "categories"
+  url = "/categories/"
+  weight = 1
+# [[menu.main]]
+#   name = "Tags"
+#   identifier = "tags"
+#   url = "/tags/"
+#   weight = 2
+[[menu.main]]
+  name = "Archives"
+  identifier = "archives"
+  url = "/archives/"
+  weight = 2
+[[menu.main]]
+  name = "About"
+  identifier = "about"
+  url = "/about/"
+  weight = 3
+
+# Footer Menu
+[[menu.footer]]
+  name = "About"
+  weight = 1
+  identifier = "about"
+  url = "/about/"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4

@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Fackelmann/Fackelmann.github.io.git
+	branch = master
