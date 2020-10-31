@@ -4,7 +4,7 @@ linktitle: "OOP and cars"
 date: 2020-10-31
 lastmod: 2020-10-31
 draft: false
-categories: ["CS"]
+categories: ["Computer Science"]
 ---
 
 When I first learned Object Oriented Programming (OOP) a few years ago the book I was reading had a strange obsession with cars. 
