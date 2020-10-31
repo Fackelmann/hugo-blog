@@ -3,7 +3,7 @@ title: "OOP and cars"
 linktitle: "OOP and cars"
 date: 2020-10-31
 lastmod: 2020-10-31
-draft: True
+draft: false
 categories: ["CS"]
 ---
 
