@@ -2,7 +2,7 @@
 title: "On tests, sensitivity, and specificity"
 linktitle: "On tests, sensitivity, and specificity"
 date: 2020-04-07
-lastmod: 2020-08-07
+lastmod: 2020-11-29
 draft: false
 categories: ["Mathematics"]
 ---
@@ -26,9 +26,9 @@ At the end of this entry I will also provide an *interactive widget* that you ca
 Let's start by providing some simple definitions that will be used to define the terms in a frequentist paradigm:
 
 - *True Positive, TP*: A positive case labeled as positive.
-- *False Positive,  FP*: A negative case labeled as negative.
+- *False Positive,  FP*: A negative case labeled as positive.
 - *True Negative, TN*: A negative case labeled as negative.
-- *False negative, FN* : A negative case labeled as positive.
+- *False negative, FN* : A positive case labeled as negative.
 
 To understand the rest of the article we will only need these 4 definitions.
 
