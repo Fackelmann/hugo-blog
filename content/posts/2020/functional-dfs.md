@@ -205,5 +205,5 @@ Finally to make the interface the same as our original `DFS`, we can wrapp this 
 
 {{< highlight racket >}}
 (define (DFS-accu origin destiny graph)
-  (DFS.c2 origin destiny graph (set empty)))
+  (DFS.v2 origin destiny graph (set empty)))
 {{< / highlight >}}
