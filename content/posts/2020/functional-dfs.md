@@ -1,6 +1,6 @@
 ---
-title: "A functional implementation Depth-First Search"
-linktitle: "A functional implementation Depth-First Search"
+title: "A functional implementation of Depth-First Search"
+linktitle: "A functional implementation of Depth-First Search"
 date: 2020-12-09
 lastmod: 2020-12-09
 draft: false
