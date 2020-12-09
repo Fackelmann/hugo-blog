@@ -5,6 +5,6 @@ Some examples:
 - [Shuffling and permutations](/posts/2019/shuffling-and-permutations)
 
 Last post:
-- [OOP and cars (31/10/2020)](/posts/2020/oop-and-cars)
+- [A functional implementation of Depth-First Search (12/09/2020)](/posts/2020/functional-dfs)
 
 Visit the [archives](/archives/) for more. 
